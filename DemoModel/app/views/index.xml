@@ -1,0 +1,10 @@
+<Alloy>
+	<Window class="container">
+		<Button id="btn_det" onClick="clickbtndet" top="21" left="10" height="25" backgroundColor="red">
+			Details
+		</Button>
+		<TableView id="tblView" dataCollection="tax">
+			<TableViewRow title="{term_name}" rowid="{term_id}" name="{term_name}"/>
+		</TableView>
+	</Window>
+</Alloy>

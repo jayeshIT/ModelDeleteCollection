@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container" id="hiswin">
+		<TableView id="tblView" dataCollection="history">
+			<TableViewRow title="{term_name}" rowid="{term_id}" name="{term_name}"/>
+		</TableView>
+	</Window>
+</Alloy>

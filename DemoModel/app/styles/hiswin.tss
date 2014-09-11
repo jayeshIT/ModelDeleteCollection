@@ -1,0 +1,10 @@
+".container": {
+	backgroundColor: "white"
+},
+"#tblView":
+{
+	top: 70,
+	left: 0,
+	borderColor: 'red',
+	footerTitle: null
+}

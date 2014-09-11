@@ -1,0 +1,4 @@
+<Alloy>
+	<Collection src="tax"/>
+	<Window id="details"></Window>
+</Alloy>
